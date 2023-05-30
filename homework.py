@@ -197,20 +197,3 @@ while True:
 
 
 
-
-# # 用while求1~100的和
-# i = 1
-# sum = 0
-# while i <= 100:
-#     sum += i
-#     i += 1
-# print(sum)
-
-# name = "hello"
-# for i in name:
-#     # 判断是否包含r，并提示.
-#     if name == 'r':
-#         print("包含r")
-#         break # 循环结束
-# else: # 循环正常结束(不是break)，才会执行这里的内容
-#     print("不包含r")
